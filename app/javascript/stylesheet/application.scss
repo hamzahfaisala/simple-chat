@@ -19,6 +19,10 @@
     &.me {
       .content-container {
         float: right;
+        .content {
+          background-color: #007bff;
+          color: #fff;
+        }
       }
     }
   }
